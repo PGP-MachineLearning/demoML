@@ -1,2 +1,2 @@
-Clase
+tipo
 soleado,niebla,llovizna,lluvia,nieve
