@@ -1,0 +1,9 @@
+[[2025-10-11 15:44:28]] Starting training on model: model_[33, 16, 1]_output_Sigmoid_intermediate_ReLU_normalized_data_True_loss_MSELoss
+[[2025-10-11 15:44:31]] Epoch 1/30, Validation Loss: 0.0139
+[[2025-10-11 15:44:33]] Epoch 2/30, Validation Loss: 0.0139
+[[2025-10-11 15:44:36]] Epoch 3/30, Validation Loss: 0.0144
+[[2025-10-11 15:44:38]] Epoch 4/30, Validation Loss: 0.0147
+[[2025-10-11 15:44:41]] Epoch 5/30, Validation Loss: 0.0149
+[[2025-10-11 15:44:43]] Epoch 6/30, Validation Loss: 0.0146
+[[2025-10-11 15:44:46]] Epoch 7/30, Validation Loss: 0.0150
+[[2025-10-11 15:44:46]] Early stopping at epoch 7/30
